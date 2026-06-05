@@ -16,7 +16,7 @@ elif 40 < marks <= 59 :
               
         print("C")
 else:
-     print("F")              
+     print("F")               
 
 
 
