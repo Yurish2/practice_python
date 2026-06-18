@@ -4,6 +4,8 @@ while i<= 5:
     i =i+1
 
 
+#Taking input from user
+
 n=int(input("enter a number :"))
 i=1
 
